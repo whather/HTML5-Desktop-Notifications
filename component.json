@@ -1,0 +1,14 @@
+{
+  "name": "HTML5-Desktop-Notifications",
+  "repo": "ubergrape/HTML5-Desktop-Notifications",
+  "description": "Desktop notifications plugin for Chrome, Safari, Firefox and IE9+",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "Apache License, Version 2.0",
+  "main": "desktop-notify.js",
+  "scripts": [
+    "desktop-notify.js"
+  ]
+}

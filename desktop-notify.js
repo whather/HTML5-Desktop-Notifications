@@ -205,3 +205,5 @@
         Object.seal(win.notify);
     }
 }(window));
+
+module.exports = window.notify;
